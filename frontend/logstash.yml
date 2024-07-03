@@ -1,5 +1,6 @@
 config.reload.automatic: false
 config.reload.interval: 3s
+path.config: "/data/config/frontend"
 path.data: "/data/frontend/data"
 path.logs: "/data/frontend/logs"
 path.settings: "/data/config/frontend"
