@@ -1,1 +1,2 @@
-
+- pipeline.id: test
+  path.config: "test"
