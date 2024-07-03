@@ -1,0 +1,6 @@
+config.reload.automatic: false
+config.reload.interval: 3s
+pipeline.ecs_compatibility: disabled
+api.http.port: 9601
+api.environment: "backend"
+pipeline.separate_logs: true
