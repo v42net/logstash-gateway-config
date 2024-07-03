@@ -1,0 +1,2 @@
+config.reload.automatic: false
+config.reload.interval: 3s
