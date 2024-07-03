@@ -1,0 +1,3 @@
+- pipeline.id: test
+  path.config: "/data/config/backend/test"
+  
