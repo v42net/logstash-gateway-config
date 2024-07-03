@@ -1,5 +1,8 @@
 config.reload.automatic: false
 config.reload.interval: 3s
+path.config: "/data/config/frontend"
+path.data: "/data/frontend/data"
+path.logs: "/data/frontend/logs"
 pipeline.ecs_compatibility: disabled
 api.http.port: 9600
 api.environment: "frontend"
