@@ -1,2 +1,2 @@
 - pipeline.id: test
-  path.config: "./test"
+  path.config: "/data/config/frontend/test"
