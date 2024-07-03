@@ -3,7 +3,6 @@ config.reload.interval: 3s
 path.data: "/data/frontend/data"
 path.logs: "/data/frontend/logs"
 path.settings: "/data/config/frontend"
-pipeline.ecs_compatibility: disabled
 api.http.port: 9600
 api.environment: "frontend"
 pipeline.separate_logs: true
