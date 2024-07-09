@@ -1,5 +1,8 @@
 config.reload.automatic: false
 config.reload.interval: 3s
+path.data: "/data/backend/data"
+path.logs: "/data/backend/logs"
+path.settings: "/data/config/backend"
 api.http.port: 9601
 api.environment: "backend"
 pipeline.separate_logs: true
